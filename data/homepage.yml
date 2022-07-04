@@ -61,7 +61,7 @@ experience:
   
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Research intern"
+      title : "Research Intern"
       company : "CYENS"
       duration : "Jun 2019 - Aug 2019"
       
@@ -71,7 +71,7 @@ experience:
       duration : "Sep 2020 - May 2021"
       
     - logo : "images/experience/icon-3.png"
-      title : "Data scientist"
+      title : "Data Scientist"
       company : "RetailZoom"
       duration : "Feb 2021 - Present"
 
