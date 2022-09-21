@@ -25,9 +25,8 @@ about:
   enable : true
   content : 
     <p class="lead">
-    <strong>I am an aspiring Data Scientist currently working at <a target='_blank' href='https://retailzoom.net/'>Retailzoom</a>.
-    I have a strong statistical academic background, programming skills, and a problem-solving mindset.
-    Looking for a challenging position in a company where I can grow professionally and personally.</strong> 
+    <strong>I am an aspiring Data Scientist currently working at <a target='_blank' href='https://www2.deloitte.com/cy/en.html'>Deloitte</a> as an actuarial analyst.
+    I have a strong statistical academic background, programming skills, and a problem-solving mindset.In my free time, I play football in a local teamS.</strong> 
     </p>
   author_image: "images/about/me.png"
   button:
