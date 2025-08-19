@@ -1,5 +1,5 @@
 banner:
-  title: "<br> Hello! I am  Angelos <br> <small> Statistical Programmer & Analytics Engineer</small>"
+  title: "<br> Hello! I am  Angelos <br> <small> Statistical Programmer and Analytics Engineer</small>"
   button:
     enable: true
     label: "Contact Me"
@@ -10,7 +10,7 @@ banner:
 contact:
   enable: true
   title: "Contact Angelos"
-  contact_image: "images/about/me.png"
+  contact_image: "images/about/me2.png"
   email:
     title: "Email"
     email: "aggelospapanastasiou905@gmail.com"
@@ -34,7 +34,7 @@ about:
 # portfolio
 portfolio:
   enable : true
-  title : "Some of my Projects"
+  title : "Side Projects"
   item_show : 2
   item_width_lg: 6
   # portfolio item comes from 'data/portfolio.yml' item.

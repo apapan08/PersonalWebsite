@@ -13,7 +13,7 @@ title: Visual exploration of Different species.
 
 #### Project Details
 
-This application was part of an interview proccess. The objective was to create a visualization for the visual exploration of  basic info about animal species found in Poland
+This application was part of an interview proccess. The objective was to create a visualization for the visual exploration of  basic info about animal species found in Poland. Currently map functionality is not working due to issues in hosting platform.
 
 #### Project Requirements
 
