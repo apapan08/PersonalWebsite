@@ -1,0 +1,10 @@
+/* Make the portfolio grid reliable regardless of Shuffle/Bootstrap state */
+.row.shuffle-wrapper {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5rem; /* spacing between cards */
+}
+.row.shuffle-wrapper .shuffle-item {
+  width: 100% !important;   /* ignore any inline widths */
+  margin: 0 !important;     /* let CSS grid handle spacing */
+}

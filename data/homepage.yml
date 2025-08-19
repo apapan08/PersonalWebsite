@@ -35,7 +35,7 @@ about:
 portfolio:
   enable : true
   title : "Side Projects"
-  item_show : 2
+  item_show : 4
   item_width_lg: 6
   # portfolio item comes from 'data/portfolio.yml' item.
 
