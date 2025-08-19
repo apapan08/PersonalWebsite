@@ -19,6 +19,6 @@ This was a personal side project: an interactive football quiz game designed to 
 
 ✅ Git/App Hosting
 
-✅ Fantasy 
+✅ Imagination
 
 ✅ Use of LLMs in Web Application Development
